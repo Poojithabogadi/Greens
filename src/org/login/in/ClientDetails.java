@@ -14,6 +14,8 @@ public class ClientDetails{
 		a[9]=15;
 		int len =a.length;
 		System.out.println("the size of the array"+len);
+		System.out.println("the size of the array"+len);
+
 		int sum=0;
 		for(int i:a) {
 			sum = sum +i;
